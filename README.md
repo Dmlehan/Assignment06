@@ -4,4 +4,4 @@ Sitemap :https://www.gloomaps.com/7YHJEPsDzl
 
 Wire Frame :
 
-Mockup :
+Mockup :https://www.figma.com/file/RVU6wAR34SkFbCVmZ7LDQG/Pos-Lehan?type=design&node-id=0%3A1&mode=design&t=6cfhtOt58Yjn0MPb-1
